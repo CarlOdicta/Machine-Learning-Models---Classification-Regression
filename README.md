@@ -32,4 +32,5 @@ Target: Satisfaction (0/1)
 Best: Random Forest
 
 Test: Accuracy: 95.8%, ROC-AUC: 0.99, F1-score: 0.96
+
 Insights: Top 5 most important feature in predicting passenger satisfaction: seat comfort, inflight entertainment, either business/personal travel, baggage handling, and online support. From these we can say that to boost satisfaction the focus should be on operational (in-flight) services rather than flight delays.
